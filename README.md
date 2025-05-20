@@ -3,19 +3,6 @@
 
 Un asistente inteligente para interactuar con la blockchain de Polygon, facilitando la gestión de wallets, transacciones y la consulta de información relevante.
 
-## Tabla de Contenido
-
-1.  [¿Por qué usarlo?](#por-qué-usarlo)
-2.  [Tecnologías Utilizadas](#tecnologías-utilizadas)
-3.  [Instalación](#instalación)
-4.  [Uso](#uso)
-5.  [Estructura del Proyecto](#estructura-del-proyecto)
-6.  [Comentarios Destacados](#comentarios-destacados)
-7.  [Créditos](#créditos)
-8.  [Licencia](#licencia)
-9.  [Badges](#badges)
-10. [English Version](#english-version)
-
 ## ¿Por qué usarlo?
 
 *   **Automatización:** Simplifica la interacción con la blockchain de Polygon mediante comandos intuitivos.
@@ -102,17 +89,6 @@ MIT License
 
 An intelligent assistant to interact with the Polygon blockchain, facilitating wallet management, transactions, and the consultation of relevant information.
 
-## Table of Contents
-
-1.  [Why Use It?](#why-use-it)
-2.  [Technologies Used](#technologies-used)
-3.  [Installation](#installation)
-4.  [Usage](#usage)
-5.  [Project Structure](#project-structure)
-6.  [Featured Comments](#featured-comments)
-7.  [Credits](#credits)
-8.  [License](#license)
-9.  [Badges](#badges)
 
 ## Why Use It?
 
